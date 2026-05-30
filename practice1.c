@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main() {
-    printf("Hello Repo2!\n");
+    printf("Hello Repo!\n");
     return 0;
 }
 
